@@ -2,7 +2,6 @@
 
 # Garbage detection using PyTorch and YoloV3
 
-For more information, look at [this](https://medium.com/maarten-sukel/garbage-object-detection-using-pytorch-and-yolov3-d6c4e0424a10) medium post.
 
 PyTorch implementation of a garbage detection model. This repository contains all code for predicting/detecting and evaulating the model.
 
@@ -106,3 +105,7 @@ https://github.com/maartensukel/yolov3-garbage-object-detection-training
 
 This is the training loss of 1600 images with 12 classes:
 ![test_example](https://github.com/maartensukel/yolov3-pytorch-garbage-detection/raw/master/loss.png)
+## CREDIT
+Shubham singh 466
+Aman Dubey 486
+kanhaiya kumar 476
